@@ -1,6 +1,11 @@
 body {
-    background-color: rgb(92, 82, 100); 
+    background-color: rgb(35,39,42); 
 
 
-  color: white
+  color: rgb(44,47,51)
+}
+p ,a {
+
+  color: rgb(255, 255, 255)
+
 }
